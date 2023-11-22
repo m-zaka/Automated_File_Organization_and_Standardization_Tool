@@ -44,7 +44,7 @@ your_script_name.bat
 1 Source: F:\data\zaka\TPR0.60\s21\a55\inst.csv Destination: F:\data\zaka\inst_data\t06s21a55.csv
 2 Source: F:\data\zaka\TPR0.60\s21\a60\inst.csv Destination: F:\data\zaka\inst_data\t06s21a60.csv
 3 Source: F:\data\zaka\TPR0.60\s21\a65\inst.csv Destination: F:\data\zaka\inst_data\t06s21a65.csv
-L...
+...
 ```
 
 The script will iterate over the specified values of `ad`, `st`, and `tpr`, and for each combination, it will check if the corresponding file exists. If the file exists, it will be copied to a new location with a standardized name.
