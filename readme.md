@@ -1,4 +1,3 @@
-{
 # Automated File Organization and Standardization Tool
 
 This repository contains a Windows Batch script designed to automate the organization and standardization of files in a specified directory structure. The script loops over a set of directories, copies specific files to a new location, and formats their names in a uniform pattern.
@@ -57,4 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Special thanks to the contributors who helped improve and test this script.
-}
